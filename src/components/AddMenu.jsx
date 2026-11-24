@@ -24,7 +24,7 @@ const AddMenu = ({ onAdd }) => {
       <input
         type="text"
         ref={inputRef}
-        placeholder='추가이동수단을 등록해주세요(예:자전거)' />
+        placeholder='이동수단을추가해주세요(예:자전거)' />
       <button type='submit'>추가</button>
     </form>
   )
